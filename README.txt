@@ -6,9 +6,9 @@
 
 **Passos para compilação e execução do programa:
 
-	1) No terminal, entre na pasta deste programa (trabalho-lfa_fernando_veizaga_e_emilio_canton);
+	1) No terminal, entre na pasta deste programa;
 
-	2) Adicione os arquivos .json a serem utilizados na pasta do programa (trabalho-lfa_fernando_veizaga_e_emilio_canton);
+	2) Adicione os arquivos .json a serem utilizados na pasta do programa;
 
 	3) Compile o programa utilizando o comando:
 
